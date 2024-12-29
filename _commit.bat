@@ -1,7 +1,7 @@
 git add -A
-git commit -m "First vlib commit"
+git commit -m "3 vlib commit"
 
-rem git push
+git push
 
-rem git tag -a "v1.3.0" -m "Third tag"
-rem git push origin "v1.3.0"
+git tag -a "v1.1.1" -m "version tag"
+git push origin "v1.1.1"
