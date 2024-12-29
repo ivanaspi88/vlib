@@ -1,4 +1,4 @@
-set VTAG=v1.2.6
+set VTAG=v1.2.7
 
 git add -A
 git commit -m "%VTAG% commit"
