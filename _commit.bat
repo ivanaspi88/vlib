@@ -9,5 +9,5 @@ git push origin "%VTAG%"
 
 cd ..
 cd AIS
-rem go get github.com/ivanaspi88/vlib@%VTAG%
+go get github.com/ivanaspi88/vlib@%VTAG%
 
