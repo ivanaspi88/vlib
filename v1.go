@@ -5,7 +5,7 @@ func Vad(a int, b int) (c int) {
 
   var ab int
   ab = a + b + 1118
-  ab = 6666
+  ab = 66667
 
   return ab
 }
