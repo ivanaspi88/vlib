@@ -7,7 +7,6 @@ git push
 git tag -a "%VTAG%" -m "version tag"
 git push origin "%VTAG%"
 
-cd ..
-cd AIS
+cd D:\NN\PS\AIS
 go get github.com/ivanaspi88/vlib@%VTAG%
 
