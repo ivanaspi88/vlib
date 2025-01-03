@@ -1,0 +1,9 @@
+go: finding module for package github.com/ivanaspi88/vlib/VP1/VP2
+go: finding module for package github.com/ivanaspi88/vlib/VP1
+go: downloading github.com/ivanaspi88/vlib/VP1 v0.0.0-20250103135712-bc56b35b3d7b
+go: found github.com/ivanaspi88/vlib/VP1 in github.com/ivanaspi88/vlib/VP1 v0.0.0-20250103135712-bc56b35b3d7b
+go: found github.com/ivanaspi88/vlib/VP1/VP2 in github.com/ivanaspi88/vlib/VP1/VP2 v0.0.0-20250103135712-bc56b35b3d7b
+go: github.com/ivanaspi88/vlib imports
+	github.com/ivanaspi88/vlib/VP1: github.com/ivanaspi88/vlib/VP1@v0.0.0-20250103135712-bc56b35b3d7b: parsing go.mod:
+	module declares its path as: github.com/ivanaspi88/vlib/vp1
+	        but was required as: github.com/ivanaspi88/vlib/VP1
