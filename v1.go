@@ -11,7 +11,7 @@ func Vad(a int, b int) (c int) {
   ab = a + b + 1118
   ab = 66667
 
-  vp1.Vprint2()
+  vlib.Vprint2()
   vp2.Vprint2()
 
 
